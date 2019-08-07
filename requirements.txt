@@ -1,4 +1,5 @@
 dnslib
 argparse
 dnspython
+PrettyTable
 requests
